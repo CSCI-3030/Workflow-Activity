@@ -1,0 +1,10 @@
+Candy
+  Chocolate
+Carbohydrates
+  Pasta
+Meat
+  Bacon
+  Cheeseburger
+Drinks
+  Orange Juice
+  Pop
